@@ -5,4 +5,4 @@ and Wind Speed according to the city in this Weather app.
 In this Weather app, You just need to enter the name of the city and it gets you the accurate data using free API.
 
 ## Project Demo
-[Project Demo](https://weatherapp000913.netlify.app/)
+[Checkout this Project Demo](https://weatherapp000913.netlify.app/)
