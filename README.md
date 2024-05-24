@@ -7,5 +7,8 @@ In this Weather app, You just need to enter the name of the city and it gets you
 ## Project Demo
 
 ```sh
-https://weatherapp000913.netlify.app/
+
 ```
+## Links
+
+[Check out this repository]([https://github.com/username/repository](https://weatherapp000913.netlify.app/))
